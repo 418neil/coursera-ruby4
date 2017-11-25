@@ -1,0 +1,28 @@
+body{
+  font-family: sans-serif;
+}
+
+h2{
+  margin: 10px;
+  font-size: 150%;
+}
+
+.menu-tile{
+  padding: 5px;
+}
+
+.menu-tile div{
+  border: 1px solid black;
+  padding: 5px;
+  background-color: #FFFFB0;
+}
+
+.menu-tile div h3{
+  font-size: 125%;
+  padding: 2px;
+  margin: 0px;
+}
+
+.menu-tile div p{
+  margin-top: 10px;
+}
